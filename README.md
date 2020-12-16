@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Here is a list of some cool projects i worked on:
+
+| Project Name  | Description  | Programming Langues |
+|:-------------:| :------------| :--------:|
+|[ETCommunications](https://github.com/timmelcherson/ETCommunications) | An android chat app that allows Peer-to-peer using Ultra-wide band modules. It allows to send text messages and multimedia messages using the IEEE 802.105.4.a protocol. | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="25">  |
+| [autoROS](https://github.com/dikioth/autoROS)     | React.js App for autonomous robot using Extended Kalman FIlter (EKF) and PID controller.       |   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="25"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="25"> | 
+| [hand-gesture-interaction](https://github.com/dikioth/hand-gesture-interaction) | ML model for hand gesture recognition using CNN, RCNN and Furhat SDK.      |    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="25"> |
+|[calculator-vhdl](https://github.com/dikioth/calculator-vhdl) |  Calculator on a FPGA using VHDL | **VHDL**|
+|[ECG-reconstruction](https://github.com/dikioth/ECG-reconstruction) | Reconstruction of ECG missing signals using RLS and ADAM optimizer.  | **MATLAB**|
+
 <!--
 **dikioth/dikioth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
